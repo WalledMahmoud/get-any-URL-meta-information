@@ -7,17 +7,7 @@ How to use
 
 - Open the files from your local host then put in the url text any website url you want to get it's meta information 
 - The Style for the form and the table of content you'll find it in the uploaded files 
-=======
 
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>URL SEEKER</title>
-		<link rel="stylesheet" href="bootstrap.css">
-		<link rel="stylesheet" href="style.css">
-	</head>
-	<body>
 		
 		<div class='container'>
 			<h1 class="text-center">URL INFORMATION</h1>
