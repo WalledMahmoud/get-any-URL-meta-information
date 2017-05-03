@@ -1,6 +1,5 @@
 # get-any-URL-meta-information
 This code show how to get URL meta tags information by open graph way but from scratch with a little bit of design 
-<<<<<<< HEAD
 
 
 How to use 
@@ -20,7 +19,6 @@ How to use
 	</head>
 	<body>
 		
-		<!-- Markup -->
 		<div class='container'>
 			<h1 class="text-center">URL INFORMATION</h1>
 			<div class='row'>
